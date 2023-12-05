@@ -300,7 +300,7 @@ body{
 	background:linear-gradient(90deg, rgba(var(--rgb-highlight), 0) 0%, rgba(var(--rgb-highlight), 1) 100%)
 }
 .wordmarkWindows-2dq6rw svg {
-display: none;
+	display: none;
 }
 .wordmarkWindows-2dq6rw::after {
 	content: 'PutYourTextHere';
