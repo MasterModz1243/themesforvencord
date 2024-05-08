@@ -1,15 +1,15 @@
 /**
  * @name Stylish_E
- * @author ClearVision Team
+ * @author Fizz
  * @version 6.9.0
- * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @description Highly customizable and beautiful theme for Vencord.
  * @source https://github.com/ClearVision/ClearVision-v6
  * @website https://clearvision.github.io
  * @invite dHaSxn3
  * @BDEditor Clear Vision
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Shadows+Into+Light&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
@@ -65,7 +65,7 @@
   --dnd-color: #FF0000;
   --streaming-color: #5E00FF;
   --offline-color: #808080;
-  --main-font: Shadows Into Light;
+  --main-font: Amatic SC;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
