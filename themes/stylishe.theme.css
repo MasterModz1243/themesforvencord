@@ -12,6 +12,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
 :root {
   --main-color: #3D3C39;
@@ -57,9 +58,9 @@
   --home-icon: url('https://i.imgur.com/hzzMadM.png');
   --home-position: center;
   --home-size: 40px;
-  --channel-unread: var(--main-color);
+  --channel-unread: #610000;
   --channel-color: rgba(255,255,255,0.3);
-  --muted-color: rgba(255,255,255,0.1);
+  --muted-color: rgb(150,0,0,0.43);
   --online-color: #00FF24;
   --idle-color: #FF9F00;
   --dnd-color: #FF0000;
@@ -90,6 +91,9 @@
 }
 
 /* Any custom CSS below here */
+
+
+
 
 
 
