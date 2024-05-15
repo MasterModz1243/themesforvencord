@@ -10,8 +10,8 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #E62727;
-  --hover-color: ##b3b2af;
+  --main-color: #B10000;
+  --hover-color: #B31E1E;
   --success-color: #00FF3A;
   --danger-color: #F90000;
   --url-color: var(--main-color);
@@ -53,9 +53,9 @@
   --home-icon: url('https://i.imgur.com/eYIr7Gu.png');
   --home-position: center;
   --home-size: 65px;
-  --channel-unread: #8D0000;
-  --channel-color: rgb(210,0,0,0.3);
-  --muted-color: rgba(255,255,255,0.1);
+  --channel-unread: #D20000;
+  --channel-color: rgb(117,117,117,1);
+  --muted-color: rgb(59,59,59,1);
   --online-color: #00FF1C;
   --idle-color: #FF9F00;
   --dnd-color: #FF0000;
