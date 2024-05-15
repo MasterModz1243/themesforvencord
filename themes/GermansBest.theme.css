@@ -10,8 +10,8 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #b3b2af;
-  --hover-color: #B31E1E;
+  --main-color: #E62727;
+  --hover-color: ##b3b2af;
   --success-color: #00FF3A;
   --danger-color: #F90000;
   --url-color: var(--main-color);
